@@ -1,5 +1,11 @@
 # 💫 About Me:
-i am currently a Student doing my ENGINEERING CSE(DATA SCIENCE)<br>
+B.E. in Computer Science & Data Science
+
+Developing skills in programming, data analysis, and ML basics
+
+Applying knowledge through hands-on projects
+
+Focused on continuous learning and improvement<br>
 
 
 ## 🌐 Socials:
