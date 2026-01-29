@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.E. in Computer Science & Data Science
+B.TECH in Computer Science & Data Science
 
 Developing skills in programming, data analysis, and ML basics
 
